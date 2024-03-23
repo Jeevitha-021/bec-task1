@@ -1,0 +1,186 @@
+.seconds{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  gap: 10px;
+  
+}
+.les{
+  
+}
+.b1{
+  display: flex;
+  justify-content: center;
+  
+}
+.b2{
+  display: flex;
+  justify-content: center;
+  gap: 180px;
+}
+.rows1 {
+  display: flex;
+  flex-direction: column;
+  /* padding: 50px;
+  border-radius: 40px; */
+  background-color: rgb(248, 246, 246);
+  /* border-width: 100px; */
+  margin: 60px;
+  align-items: center;
+  word-wrap: inherit;
+  box-shadow: 2px 2px 20px rgb(213, 213, 213);
+  text-align: center;
+  
+}
+.rows{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  margin: 60px ;
+} 
+.ow{
+  font-size: 40px;
+}
+.r{
+  font-size: 20px;
+}
+.rows2{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(248, 246, 246);
+  margin: 60px;
+  box-shadow: 2px 2px 20px rgb(213, 213, 213);
+  text-align: center;
+}
+.rows3{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(248, 246, 246);
+  margin: 60px;
+  box-shadow: 2px 2px 20px rgb(213, 213, 213);
+  text-align: center;
+  
+}
+.next{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 60px;
+  width: 90%;
+}
+.next2{
+  width: 1500px;
+ 
+}
+.devdeep{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 350px;
+
+}
+.deep1{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+.tapep1{
+  width:1300px;
+}
+.tapep{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: aliceblue;
+  gap: 30px;
+}
+.jeevi{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  
+}
+.parithi{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 200px;
+  top:40px;
+}
+.parithi2{
+  font-family: Arial;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.parithi2 > img{
+  /* height: 300px;
+  width: 300px; */
+}
+.parithi1{
+  right: 30px;
+  background-color: whitesmoke;
+  color: black;
+  width: 250px;
+  top: 50px;
+}
+/* .parithi1{
+  right: 30px;
+  background-color: whitesmoke;
+  color: black;
+  
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+} */
+.parithi4 > img{
+  /* height: 350px;
+  width: 350px; */
+  
+}
+.parithi6 > img{
+  height: 250px;
+  width: 350px;
+}
+.parithi8{
+  right: 30px;
+  background-color: aliceblue;
+  box-shadow: 2px 2px 20px rgb(213, 213, 213);
+  color: black;
+  font-family: Arial;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: -40px;
+  right: -40px;
+}
+.parithi1{
+  right: 30px;
+  background-color: aliceblue;
+  box-shadow: 2px 2px 20px rgb(213, 213, 213);
+  color: black;
+  font-family: Arial;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: -50px;
+  right: 5px;
+}
